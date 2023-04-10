@@ -37,7 +37,7 @@ public:
 
 int main() {
     Mahasiswa mhs; 
-    mataKuliah mk;
+    mataKuliah mk; 
     cout << "\nMasukkan NIM mahasiswa= ";
     cin >> mhs.nim;
     cout << "\nMAsukkan Nama Mahasiswa= ";

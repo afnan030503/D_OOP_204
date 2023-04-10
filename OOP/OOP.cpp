@@ -36,7 +36,7 @@ public:
 };
 
 int main() {
-    Mahasiswa mhs;
+    Mahasiswa mhs; 
     mataKuliah mk;
     cout << "\nMasukkan NIM mahasiswa= ";
     cin >> mhs.nim;

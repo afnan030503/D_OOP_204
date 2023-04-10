@@ -12,7 +12,10 @@ public:
 };
 
 class mataKuliah {
-    private 
+private:
+    int sks;
+    string kode;
+    string namaMK;
 };
 
 int main()

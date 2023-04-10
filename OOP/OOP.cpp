@@ -7,8 +7,12 @@ public:
     string nama; 
     void tampil() { 
         cout << "NIM= " << nim;
-        cout <<
+        cout << "\nNama= " << nama;
     }
+};
+
+class mataKuliah {
+
 };
 
 int main()

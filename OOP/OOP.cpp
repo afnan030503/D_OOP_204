@@ -12,7 +12,7 @@ public:
 };
 
 class mataKuliah {
-
+    private 
 };
 
 int main()
